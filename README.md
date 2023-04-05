@@ -4,5 +4,7 @@ I tailord this repository based on the project "Deep Graph anomaly detection wit
 You can find the descriptions in the following:
 <br/>
 https://ml4sci.org/gsoc/2023/proposal_GENIE1.html
+<br/>
 https://docs.google.com/document/d/10C8mNjE-WE6OuESjcnuJ_N430D-Hdtz-4_lLxGMnKbI/edit
+<br/>
 The repository consits of the solutions for the Common Task 1, Common Task 2, and Specific Task 1
